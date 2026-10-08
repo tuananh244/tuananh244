@@ -2,10 +2,9 @@
 
 <h3 align="center">🔐 Information Security student · 🤖 interested in AI/ML</h3>
 
-<img align="left" src="GIF/Kafka%20GIF.gif" alt="gif" height="220" />
-<img align="right" src="GIF/Wuwa%20GIF.gif" alt="gif" height="220" />
-
-<br clear="both" />
+<p align="center">
+  <img src="GIF/Wuwa%20GIF.gif" alt="gif" height="220" />
+</p>
 
 ---
 
