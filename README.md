@@ -1,25 +1,21 @@
-<p align="center">
-  <img src="GIF/Kafka%20GIF.gif" alt="banner gif" width="600" />
-</p>
-
 <h1 align="center">Hi, I'm Tuan Anh 👋</h1>
 
+<h3 align="center">🔐 Information Security student · 🤖 interested in AI/ML</h3>
+
 <p align="center">
-  🔐 Information Security student · 🤖 interested in AI/ML
+  <img src="GIF/Kafka%20GIF.gif" alt="gif" height="220" />
+  &nbsp;
+  <img src="GIF/Wuwa%20GIF.gif" alt="gif" height="220" />
 </p>
 
 ---
 
 ## 🧑‍💻 About me
 
-<img align="right" src="GIF/Wuwa%20GIF.gif" alt="gif" width="230" />
-
-- 🔐 Studying **Information Security**
-- 🤖 Exploring **LLMs, RAG and multi-agent systems** for security problems
-- 🕵️ Curious about threat intelligence, APT attribution and vulnerability analysis
-- 📫 Easiest way to reach me: **[anhtuantranna244@gmail.com](mailto:anhtuantranna244@gmail.com)**
-
-<br clear="right" />
+- ### 🔐 Studying Information Security
+- ### 🤖 Exploring LLMs, RAG and multi-agent systems for security problems
+- ### 🕵️ Curious about threat intelligence, APT attribution and vulnerability analysis
+- ### 📫 Easiest way to reach me: [anhtuantranpt244@gmail.com](mailto:anhtuantranpt244@gmail.com)
 
 ## 🛠️ Skills & Technologies
 
@@ -37,10 +33,10 @@
 
 ## 🚀 Projects
 
-- 🧠 **[LLM-RAG-for-APT-Attribution](https://github.com/tuananh244/LLM-RAG-for-APT-Attribution)** — LLM + RAG pipeline to extract TTPs (MITRE ATT&CK) and rank APT groups.
-- 🐛 **[src2vuln](https://github.com/tuananh244/src2vuln)** — Multi-agent framework for Python source-code vulnerability analysis.
-- 📡 **[PortScanToolBasic](https://github.com/tuananh244/PortScanToolBasic)** — Multi-threaded CLI port scanner written in C++.
-- 🎯 **[ban-pick-system](https://github.com/tuananh244/ban-pick-system)** — Real-time ban/pick web app (React + Socket.IO).
+- ### 🧠 [LLM-RAG-for-APT-Attribution](https://github.com/tuananh244/LLM-RAG-for-APT-Attribution) — LLM + RAG pipeline to extract TTPs (MITRE ATT&CK) and rank APT groups.
+- ### 🐛 [src2vuln](https://github.com/tuananh244/src2vuln) — Multi-agent framework for Python source-code vulnerability analysis.
+- ### 📡 [PortScanToolBasic](https://github.com/tuananh244/PortScanToolBasic) — Multi-threaded CLI port scanner written in C++.
+- ### 🎯 [ban-pick-system](https://github.com/tuananh244/ban-pick-system) — Real-time ban/pick web app (React + Socket.IO).
 
 ## 📬 Contact
 
@@ -49,7 +45,7 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://gitlab.com/tuananh244"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" title="GitLab" width="52" height="52" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:anhtuantranna244@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" title="Gmail" width="52" height="52" /></a>
+  <a href="mailto:anhtuantranpt244@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" title="Gmail" width="52" height="52" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/trantuananh24042k4"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="52" height="52" /></a>
   &nbsp;&nbsp;&nbsp;
@@ -58,9 +54,7 @@
   <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord: tazek_24" title="Discord: tazek_24" width="52" height="52" />
 </p>
 
-<p align="center">
-  Discord: <code>tazek_24</code>
-</p>
+<h3 align="center">Discord: <code>tazek_24</code></h3>
 
 <p align="center">
   <sub>Thanks for stopping by ✨</sub>
